@@ -1,0 +1,9 @@
+2018/6/4  22::14::53 Poprawnie otworzono plik z logami. Poczatek programu
+2018/6/4  22::15::29 Wybrano tryb gry nr 1
+2018/6/4  22::15::30 Start rozgrywki
+2018/6/4  22::17::10 Poprawnie otworzono plik z logami. Poczatek programu
+2018/6/4  22::17::17 Wybrano tryb gry nr 1
+2018/6/4  22::17::18 Start rozgrywki
+2018/6/4  22::30::37 Poprawnie otworzono plik z logami. Poczatek programu
+2018/6/4  22::30::41 Wybrano tryb gry nr 1
+2018/6/4  22::30::42 Start rozgrywki
